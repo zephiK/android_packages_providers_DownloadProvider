@@ -19,8 +19,8 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="bytes_per_second"> B/s</string>
-    <string name="kilo_bytes_per_second"> KB/s</string>
-    <string name="mega_bytes_per_second"> MB/s</string>
+    <string name="kilo_bytes">K</string>
+    <string name="mega_bytes">M</string>
+    <string name="giga_bytes">G</string>
 
 </resources>
